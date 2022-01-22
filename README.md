@@ -8,20 +8,27 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-593D88?&logo=redux)
+![Jest](https://img.shields.io/badge/-Jest-18df16?&logo=jest)
+![TestingLibrary](https://img.shields.io/badge/React_Native_Testing_Library-683D87?&logo=testinglibrary)
+
 ![Bitrise](https://img.shields.io/badge/Bitrise-683D87?&logo=bitrise)
-![Appstore](https://img.shields.io/badge/App_Store-0D96F6?&logo=appstore)
+![Appstore](https://img.shields.io/badge/App_Store-222222?&logo=appstore)
 ![GooglePlay](https://img.shields.io/badge/Google_Play_Store-414141?&logo=googleplay)
+![Firebase](https://img.shields.io/badge/Firebase-049be5?&logo=firebase)
+![Bugsnag](https://img.shields.io/badge/Bugsnag-4949E4?&logo=bugsnag)
+![NextJS](https://img.shields.io/badge/-Next.js-000000?&logo=next.js)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Django](https://img.shields.io/badge/Django-092E20?&logo=django)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?&logo=elasticsearch)
+![Kibana](https://img.shields.io/badge/-Kibana-005571?&logo=kibana)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=postgresql)
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?&logo=amazon-aws)
 ![GCloud](https://img.shields.io/badge/Google_Cloud-4285F4?&logo=google-cloud)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
+![NodeRed](https://img.shields.io/badge/-NodeRED-8F0000?&logo=nodered)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?&logo=grafana)
 
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
