@@ -1,3 +1,5 @@
+<img src="https://github.com/vanGalilea/vanGalilea/blob/main/ezgif.com-gif-maker.gif" width="100%">
+
 ### Hi I'm Steve! <img src="https://github.com/vanGalilea/vanGalilea/blob/main/hi.gif" width="30px">
 
 - 🔭 I’m currently working on Tranzer, Iconist and lot's of other hobby projects that I started and didn't had the time to finish.
