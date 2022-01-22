@@ -36,6 +36,6 @@
 - 💬 Ask me about the cucumber 🥒 incident at our office.
 - 📫 How to reach me: [stevegalili.com](https://linktr.ee/stevegalili)
 - 🌍 Fun fact: I love travelling and I've been to: Iceland, Indonesia, Czech Republic, Qatar, Denemark, Tanzania, Finland, Aruba, Bonaire, Curacao, Hungary, St. Maarten, Saba, Norway, Sweden, Israel, France, Belguim, Germany and Italy.
-- 📻 Music is a big part of my life, I'm currently listening to 👇🏻 (unless it's some Frozen sountrack, then it's my daughter)
+- 📻 Music is a big part of my life, I'm currently listening to 👇🏻 (unless it's the Frozen sountrack, then it's my daughter)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vangalilea&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
