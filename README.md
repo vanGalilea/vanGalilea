@@ -39,3 +39,5 @@
 - 📻 Music is a big part of my life, I'm currently listening to 👇🏻 (unless it's the Frozen sountrack, then it's my daughter)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vangalilea&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<a href="https://www.buymeacoffee.com/stevegalili" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
