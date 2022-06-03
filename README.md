@@ -1,6 +1,6 @@
 <img src="https://github.com/vanGalilea/vanGalilea/blob/main/banner.gif" width="100%">
 
-### Hi I'm Steve! <img src="https://github.com/vanGalilea/vanGalilea/blob/main/hi.gif" width="30px">
+### Hi I'm Steve! <img src="https://github.com/vanGalilea/vanGalilea/blob/main/hi.gif" height="30px">
 
 - 🔭 I’m currently working at [Stream](https://getstream.io), but I also work on lot's of other hobby projects that I started and didn't had the time to finish.
 - 📚 I never miss an oprotunity to help, think along and share my ideas via blogs or opensource projects.
