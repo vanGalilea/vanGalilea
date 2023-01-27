@@ -38,6 +38,6 @@
 - 🌍 Fun fact: I love travelling and I've been to: Iceland, Indonesia, Czech Republic, Qatar, Denmark, Tanzania, Finland, Aruba, Austria, Bonaire, Curacao, Hungary, St. Maarten, Saba, Norway, Sweden, Israel, France, Belgium, Germany and Italy.
 - 📻 Music is a big part of my life, I'm currently listening to 👇🏻 (unless it's the Frozen sountrack, then it's my daughter)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vangalilea&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xsests4jp2y7bkcjqgoj7uizwq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <a href="https://www.buymeacoffee.com/stevegalili" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
