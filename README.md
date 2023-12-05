@@ -28,7 +28,7 @@
 - 🌱 Constantly learning, at the moment mainly how to use Jetpack Compose and SwiftUI in combination with React Native's Turbo Modules + Fabric Renderer.
 - 💬 Ask me about the cucumber 🥒 incident at our office.
 - 📫 How to reach me: [stevegalili.com](https://stevegalili.com)
-- 🌍 Fun fact: I love traveling and I've been to: Iceland, Indonesia, Czech Republic, Qatar, Denmark, Tanzania, Finland, Aruba, Austria, Bonaire, Curacao, Hungary, St. Maarten, Saba, Norway, Sweden, Israel, France, Belgium, Germany Slovenia, and Italy.
+- 🌍 Fun fact: I love traveling and I've been to: Iceland, Indonesia, Czech Republic, Qatar, Denmark, Tanzania, Finland, Aruba, Austria, Bonaire, Curacao, Hungary, St. Maarten, Saba, Norway, Sweden, Israel, France, Belgium, Germany Slovenia, Italy and Portugal.
 - 📻 Music is a big part of my life, I'm currently listening to 👇🏻 (unless it's the Frozen soundtrack, then it's my daughter)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xsests4jp2y7bkcjqgoj7uizwq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
